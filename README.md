@@ -322,7 +322,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-| [Dharam Patel](https://github.com/dharampatel) | [Ayesha Patel](https://github.com/ayeshapatel) | [Vrunda Patel](https://github.com/vrundapatel) |
+| [Dharam Patel](https://github.com/dharampatel) | [Ayesha Patel](https://github.com/ayeshapatel) | [Vrunda Radadiya](https://github.com/vrundapatel) |
 
 </div>
 
